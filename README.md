@@ -14,6 +14,8 @@ Willow isn't here, not feeling it today
 
 <<<<<<< HEAD
 Ben is here, SPICY CHICKEN SANDWICH IS GOATED
+
+Conner was here, Popeyes kinda overrated
 =======
 Jonathon was here: The Server Provides
 >>>>>>> 34e9ed3a51a7b930b6e1f74e82bdbde2c13ab32a
