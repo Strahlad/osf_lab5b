@@ -27,3 +27,5 @@ Popeye the sailor man is looking for his spinach! - Qilin
 
 ⟊⎍⌇⋏⋏⊬ ⍙⏃⌇ ⊑⟒⍀⟒ - Jusnny
 
+<<<<<<<HEAD
+RATKING SUPREMACY -Adam
